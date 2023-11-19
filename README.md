@@ -11,6 +11,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
+  * [Video](#video)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -28,9 +29,15 @@ Building structure for basic e-commerce back-end development
 This application is covered under [MIT]((https://opensource.org/licenses/MIT))
 (https://opensource.org/licenses/MIT)
 
+## Video:
+
+[Get Routes Demo]((./Assets/Get_Routes_Demo.mov))
+[Post, Put, Delete Demo](./Assets/PUT:POST:DELETE_Route_demo.mov)
+[DB Creation & Seeding Demo](./Assets/DB_Creation&Seed_Demo.mov)
+
 ## Contributing:
 
-Contribution parameters in development.  See contact info below to find out more.
+Jenny Wannier, [Xandromus] (https://github.com/coding-boot-camp/fantastic-umbrella.git)
 
 ## Tests:
 
